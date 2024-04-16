@@ -8,13 +8,11 @@
 
 <p align="center">
   <img src="https://github.com/Wira07/screenshot/blob/master/screenshot_1.png" width="400" alt="Screenshot">
-   <img src="https://github.com/Wira07/screenshot/blob/master/screenshot_1.png" width="400" alt="Screenshot">
-   <img src="https://github.com/Wira07/screenshot/blob/master/screenshot_1.png" width="400" alt="Screenshot">
-   <img src="https://github.com/Wira07/screenshot/blob/master/screenshot_1.png" width="400" alt="Screenshot">
-   <img src="https://github.com/Wira07/screenshot/blob/master/screenshot_1.png" width="400" alt="Screenshot">
-   <img src="https://github.com/Wira07/screenshot/blob/master/screenshot_1.png" width="400" alt="Screenshot">
-   <img src="https://github.com/Wira07/screenshot/blob/master/screenshot_1.png" width="400" alt="Screenshot">
-  
+   <img src="https://github.com/Wira07/screenshot/blob/master/screenshot_2.png" width="400" alt="Screenshot">
+   <img src="https://github.com/Wira07/screenshot/blob/master/screenshot_3.png" width="400" alt="Screenshot">
+   <img src="https://github.com/Wira07/screenshot/blob/master/screenshot_4.png" width="400" alt="Screenshot">
+   <img src="https://github.com/Wira07/screenshot/blob/master/screenshot_5.png" width="400" alt="Screenshot">
+   <img src="https://github.com/Wira07/screenshot/blob/master/screenshot_6.png" width="400" alt="Screenshot">
 </p>
 
 ## Overview
