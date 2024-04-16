@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/98765432-a1b2c3.png" width="400" alt="Screenshot">
+  <img src="https://github.com/Wira07/screenshot/blob/master/screenshot_1.png" width="400" alt="Screenshot">
 </p>
 
 ## Overview
