@@ -1,4 +1,4 @@
-<h1 align="center">Aplikasi Login Sederhana</h1>
+<h1 align="center">Aplikasi Login & Register Sederhana</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Android-brightgreen.svg" alt="Platform: Android">
